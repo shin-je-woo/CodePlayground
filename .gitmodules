@@ -22,3 +22,6 @@
 [submodule "practice-spring-db2"]
 	path = practice-spring-db2
 	url = git@github.com:shin-je-woo/practice-spring-db2.git
+[submodule "practice-spring-db1"]
+	path = practice-spring-db1
+	url = git@github.com:shin-je-woo/practice-spring-db1.git
