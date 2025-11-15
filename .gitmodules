@@ -19,3 +19,6 @@
 [submodule "practice-spring-transaction"]
 	path = practice-spring-transaction
 	url = git@github.com:shin-je-woo/practice-spring-transaction.git
+[submodule "practice-spring-db2"]
+	path = practice-spring-db2
+	url = git@github.com:shin-je-woo/practice-spring-db2.git
