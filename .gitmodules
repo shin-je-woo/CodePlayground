@@ -40,3 +40,6 @@
 [submodule "practice-thymeleaf-basic"]
 	path = practice-thymeleaf-basic
 	url = git@github.com:shin-je-woo/practice-thymeleaf-basic.git
+[submodule "practice-spring-mvc-basic"]
+	path = practice-spring-mvc-basic
+	url = git@github.com:shin-je-woo/practice-spring-mvc-basic.git
