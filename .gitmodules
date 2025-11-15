@@ -16,3 +16,6 @@
 [submodule "practice-querydsl"]
 	path = practice-querydsl
 	url = git@github.com:shin-je-woo/practice-querydsl.git
+[submodule "practice-spring-transaction"]
+	path = practice-spring-transaction
+	url = git@github.com:shin-je-woo/practice-spring-transaction.git
