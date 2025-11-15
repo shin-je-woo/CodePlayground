@@ -34,3 +34,6 @@
 [submodule "practice-jpa-basic"]
 	path = practice-jpa-basic
 	url = git@github.com:shin-je-woo/practice-jpa-basic.git
+[submodule "practice-spring-mvc2-utilization"]
+	path = practice-spring-mvc2-utilization
+	url = git@github.com:shin-je-woo/practice-spring-mvc2-utilization.git
