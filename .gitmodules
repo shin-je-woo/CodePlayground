@@ -43,3 +43,6 @@
 [submodule "practice-spring-mvc-basic"]
 	path = practice-spring-mvc-basic
 	url = git@github.com:shin-je-woo/practice-spring-mvc-basic.git
+[submodule "practice-servlet-to-springmvc"]
+	path = practice-servlet-to-springmvc
+	url = git@github.com:shin-je-woo/practice-servlet-to-springmvc.git
