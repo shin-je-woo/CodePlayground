@@ -1,3 +1,6 @@
 [submodule "practice-spring-batch"]
 	path = practice-spring-batch
 	url = git@github.com:shin-je-woo/practice-spring-batch.git
+[submodule "practice-spring-kafka"]
+	path = practice-spring-kafka
+	url = git@github.com:shin-je-woo/practice-spring-kafka.git
