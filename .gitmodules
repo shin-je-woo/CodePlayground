@@ -28,3 +28,6 @@
 [submodule "practice-spring-data-jpa"]
 	path = practice-spring-data-jpa
 	url = git@github.com:shin-je-woo/practice-spring-data-jpa.git
+[submodule "practice-jpashop"]
+	path = practice-jpashop
+	url = git@github.com:shin-je-woo/practice-jpashop.git
