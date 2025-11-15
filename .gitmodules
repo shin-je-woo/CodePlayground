@@ -46,3 +46,6 @@
 [submodule "practice-servlet-to-springmvc"]
 	path = practice-servlet-to-springmvc
 	url = git@github.com:shin-je-woo/practice-servlet-to-springmvc.git
+[submodule "practice-spring-core"]
+	path = practice-spring-core
+	url = git@github.com:shin-je-woo/practice-spring-core.git
