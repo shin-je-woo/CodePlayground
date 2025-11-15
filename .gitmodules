@@ -10,3 +10,6 @@
 [submodule "practice-spring-security"]
 	path = practice-spring-security
 	url = git@github.com:shin-je-woo/practice-spring-security.git
+[submodule "practice-spring-advanced"]
+	path = practice-spring-advanced
+	url = git@github.com:shin-je-woo/practice-spring-advanced.git
